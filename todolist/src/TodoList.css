@@ -1,0 +1,23 @@
+
+body {
+  background-color: #666666;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: Arial;
+}
+
+Button{color: black}
+
+
